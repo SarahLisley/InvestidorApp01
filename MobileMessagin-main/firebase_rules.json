@@ -1,0 +1,15 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": true,
+    "price_alerts": {
+      ".indexOn": ["isActive", "userId"]
+    },
+    "stock_prices": {
+      ".indexOn": ["symbol"]
+    },
+    "users": {
+      ".indexOn": ["userId"]
+    }
+  }
+} 

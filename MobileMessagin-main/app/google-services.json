@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "94415100298",
+    "firebase_url": "https://appteste-92481-default-rtdb.firebaseio.com",
+    "project_id": "appteste-92481",
+    "storage_bucket": "appteste-92481.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94415100298:android:8ce1ac49154eda5b031073",
+        "android_client_info": {
+          "package_name": "com.example.cruditemapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXPhBJrenhQQdi-Gby8fjiYwqCAfq754"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94415100298:android:67c3db9cc0a1bff5031073",
+        "android_client_info": {
+          "package_name": "com.example.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXPhBJrenhQQdi-Gby8fjiYwqCAfq754"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
